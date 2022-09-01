@@ -1,6 +1,6 @@
 # HK_Protest_News_Analysis
 
-Data has been taken from: http://www.nexisuni.com and downloaded as .rtf files.
+Data has been taken from: http://www.nexisuni.com and downloaded as .rtf files. The resulting dataset with the full articles is too large to upload on Github. The cleaned data can be found in the .csv files.
 
 The search terms were: "Hong Kong Protest*", the timeframe 1.4 - 1.12.2019 for the news sources "New York Times" and "South China Morning Post".
 
